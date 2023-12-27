@@ -4,15 +4,19 @@ Data Scientist and Machine Learning Engineer with expertise in leveraging data-d
 
 Projects:
 
-1. BERT-Based Sentiment Analysis of Online Class App Feedback:
+1.Enhancing User Experience: Text Classification for Online App using DistilBertTokenizerFast
+   - Executed successful text classification using the DistilBERT model.
+   - Achieved remarkable precision, recall & F1-score of 1, showcasing excellence in sentiment analysis.
+
+2. BERT-Based Sentiment Analysis of Online Class App Feedback:
    - Developed a deep learning model for sentiment analysis of online class app feedback using BERT.
    - Achieved 84% accuracy by focusing on high precision for positive sentiments and high recall for negative sentiments.
 
-2. Crab Age Prediction:
+3. Crab Age Prediction:
    - Developed a machine learning model to predict the age of crabs based on physical characteristics.
    - Achieved an R-squared value of 0.59 using the random forest regression algorithm.
 
-3. Delivery Cost Analysis & Billing Discrepancy Detection:
+4. Delivery Cost Analysis & Billing Discrepancy Detection:
    - Built a Python-based system for analyzing delivery costs and detecting billing discrepancies in e-commerce companies.
    - Utilized Pandas and Numpy for data cleaning and analysis, resulting in reduced operational costs.
 
